@@ -16,3 +16,7 @@ object jabalina {
 	method estaCargada() = estaCargada
 	method usar() = false
 }
+
+object pistola {
+	
+}
